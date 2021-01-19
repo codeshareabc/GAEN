@@ -1,4 +1,4 @@
-# EvoGTN:Evolving Graph Attention Networks
+# EvoGTN: Evolving Graph Attention Networks
 
 ### To run the link prediction and classification tasks:
 ```
