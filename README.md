@@ -1,4 +1,4 @@
-# EvoGAN: Evolving Graph Attention Networks
+# EvoGAT: Evolving Graph Attention Networks
 
 ### To run the link prediction and classification tasks:
 ```
